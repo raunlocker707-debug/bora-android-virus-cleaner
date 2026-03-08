@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
-  "notes": "Initial release — BoRa Android Virus Cleaner V1.0\n• Auto ADB connect\n• Deep virus scan (hidden + disabled apps)\n• 3 Themes / 3 Languages\n• ADB Info + Fastboot Info tabs\n• Live user counter",
-  "download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases"
+  "version": "1.1",
+  "download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases",
+  "notes": "V1.1 — Screenshot button in toolbar + 100+ worldwide banks protected\n• 📸 SCREENSHOT button added to main toolbar (auto-saves to Desktop)\n• SKIP_DB expanded: USA, EU, UK, Asia, Africa, LatAm banks all safe\n• Chase, Nubank, Revolut, M-Pesa, Alipay, GCash, bKash and 100+ more\n• Version bump to V1.1"
 }
