@@ -1,5 +1,5 @@
 {
   "version": "1.1",
-  "download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases",
-  "notes": "V1.1 — Screenshot button in toolbar + 100+ worldwide banks protected\n• 📸 SCREENSHOT button added to main toolbar (auto-saves to Desktop)\n• SKIP_DB expanded: USA, EU, UK, Asia, Africa, LatAm banks all safe\n• Chase, Nubank, Revolut, M-Pesa, Alipay, GCash, bKash and 100+ more\n• Version bump to V1.1"
+  "download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases/latest",
+  "notes": "• 📸 Screenshot button — captures tool window, saves to BoRa_Saves/Screenshots/\n• 💾 Save Log button — auto-saves logs to BoRa_Saves/Logs/\n• 📁 Open Saves — opens save folder in Explorer\n• ℹ About panel — side panel with info, links & how-to guide\n• 🎮 Mobile Legends, PUBG, Free Fire, Lords Mobile now protected\n• 🌍 100+ worldwide banks protected (USA, EU, Asia, Africa, LatAm)\n• 🔧 Buttons split into 2 rows — always visible at any window size\n• 🐛 Fixed tool crash on startup"
 }
