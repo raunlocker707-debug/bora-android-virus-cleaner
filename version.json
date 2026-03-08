@@ -1,5 +1,6 @@
 {
   "version": "1.1",
   "download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases/latest",
-  "notes": "• 📸 Screenshot button — captures tool window, saves to BoRa_Saves/Screenshots/\n• 💾 Save Log button — auto-saves logs to BoRa_Saves/Logs/\n• 📁 Open Saves — opens save folder in Explorer\n• ℹ About panel — side panel with info, links & how-to guide\n• 🎮 Mobile Legends, PUBG, Free Fire, Lords Mobile now protected\n• 🌍 100+ worldwide banks protected (USA, EU, Asia, Africa, LatAm)\n• 🔧 Buttons split into 2 rows — always visible at any window size\n• 🐛 Fixed tool crash on startup"
+  "direct_download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases/latest/download/BoRaAndroidVirusCleaner.exe",
+  "notes": "• 🇰🇭 Cambodia theme — full background image + warm Khmer button colors\n• 🎨 All widgets fully repaint on every theme change\n• 👤 Developer: Bo Ra (@raunlockerww)\n• 📱 ADB & Fastboot log bars redesigned\n• ✨ Welcome screen shows What's New + About\n• 🔔 Check Update button\n• 🖥️ PC Virus Scanner tab\n• 🔊 Sound fixed for all Windows"
 }
