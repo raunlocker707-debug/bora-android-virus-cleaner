@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
+  "version": "1.2",
+  "notes": "V1.2 — 2026\n\n\ud83c\uddf5\ud83c\udded Filipino (Tagalog) language added\n\u2022 Full UI translation \u2014 buttons, dialogs, status messages\n\u2022 Help text, confirmations, virus list all translated\n\u2022 Language selector: English \u00b7 \u4e2d\u6587 \u00b7 \u1781\u17d2\u1798\u17c2\u179a \u00b7 Filipino\n\n\u2714 All V1.1 features included:\n\u2022 \ud83d\udcf8 Screenshot button \u2014 auto-saves to Desktop\n\u2022 SKIP_DB expanded: 100+ worldwide banks protected\n\u2022 SCREEN tab \u2014 no Pillow dependency\n\u2022 scrcpy \u2014 mirror / no-audio / record MP4\n\u2022 Virus scan \u2014 3 phases (VIRUS_DB + services + keywords)\n\u2022 TOOLS tab \u2014 FRP bypass, WiFi ADB, screen lock remove\n\u2022 APK install \u2014 Unicode/Chinese filename fix\n\u2022 App list \u2014 USER / SYS / DIS / ALL filter + search\n\u2022 Restart App + Force Stop in log bar\n\u2022 Auto update checker via GitHub version.json",
   "download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases/latest",
-  "direct_download": "https://github.com/raunlocker707-debug/bora-android-virus-cleaner/releases/latest/download/BoRaAndroidVirusCleaner.exe",
-  "notes": "• 🇰🇭 Cambodia theme — full background image + warm Khmer button colors\n• 🎨 All widgets fully repaint on every theme change\n• 👤 Developer: Bo Ra (@raunlockerww)\n• 📱 ADB & Fastboot log bars redesigned\n• ✨ Welcome screen shows What's New + About\n• 🔔 Check Update button\n• 🖥️ PC Virus Scanner tab\n• 🔊 Sound fixed for all Windows"
+  "direct_download": ""
 }
